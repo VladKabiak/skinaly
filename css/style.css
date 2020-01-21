@@ -381,10 +381,10 @@ input[type="checkbox"] {
     margin-top: -220px;
     padding: 80px; }
     .offer-block__calc-bg {
-      background: #fff url("../../img/offer/form-bg-calc.jpg") no-repeat center right;
+      background: #fff url("https://vladkabiak.github.io/skinaly//img/offer/form-bg-calc.jpg") no-repeat center right;
       background-size: contain; }
     .offer-block__price-bg {
-      background: #fff url("../../img/offer/form-bg-price.jpg") no-repeat center right;
+      background: #fff url("https://vladkabiak.github.io/skinaly//img/offer/form-bg-price.jpg") no-repeat center right;
       background-size: contain; }
   .offer__title {
     display: block;
